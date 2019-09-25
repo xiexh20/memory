@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Name</string>
+    <string name="search_by_name">Search by name</string>
+
+    <!--adapted from https://github.com/googlesamples/android-ShareActionProvider.git-->
+    <string name="menu_share">Share</string>
+    <string name="quote_1">Expectation is the root of all heartache - William Shakespeare</string>
+    <string name="quote_2">The true sign of intelligence is not knowledge but imagination - Albert
+        Einstein</string>
+    <string name="quote_3">As for me, all I know is that I know nothing - Socrates</string>
+    <string name="search_hint">search images</string>
+    <string name="app_label">memories</string>
+    <string name="textview">TextView</string>
+    <string name="done">done</string>
+    <string name="all">All</string>
+    <string name="time_flies_memory_remains">Time flies, memory remains</string>
+    <string name="selectText">select</string>
+    <string name="synchronize">synchronize</string>
+    <string name="todo">TODO</string>
+</resources>

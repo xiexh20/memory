@@ -1,0 +1,122 @@
+???
+Airplane
+Apple
+Backpack
+Ball
+Banana
+Bed
+Beer
+Bench
+Bicycle
+Bird
+Boat
+Book
+Bookcase
+Bottle
+Bowl
+Boy
+Bread
+Building
+Bull
+Bus
+Cabbage
+Cake
+Cake stand
+Camera
+Candy
+Car
+Carrot
+Castle
+Cat
+Chair
+Chicken
+Clock
+Coat
+Coin
+Computer keyboard
+Convenience store
+Curtain
+Desk
+Dog
+Door
+Drawer
+Envelope
+Fish
+Flag
+Flower
+Flowerpot
+Food
+Fork
+Frying pan
+Girl
+Glasses
+Glove
+Hamburger
+Handbag
+Horse
+House
+Human arm
+Human ear
+Human eye
+Human hand
+Human leg
+Human nose
+Ice cream
+Ipod
+Jeans
+Kitchen appliance
+Knife
+Laptop
+Light bulb
+Luggage and bags
+Man
+Mango
+Microphone
+Microwave oven
+Milk
+Mirror
+Mobile phone
+Motorcycle
+Mouse
+Mushroom
+Orange
+Oven
+Panda
+Paper towel
+Pen
+Pencil case
+Piano
+Pig
+Pineapple
+Pizza
+Potato
+Rabbit
+Racket
+Refrigerator
+Ruler
+Salad
+Sandwich
+Spoon
+Street light
+Table
+Tablet computer
+Tea
+Telephone
+Television
+Tennis racket
+Tent
+Tiger
+Tire
+Tomato
+Traffic light
+Traffic sign
+Train
+Tree
+Truck
+Vehicle
+Wall clock
+Watch
+Watermelon
+Whiteboard
+Window
+Woman

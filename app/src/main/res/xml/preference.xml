@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="searchOption"
+        android:title="Search options"
+        android:entries="@array/option_name"
+        android:entryValues="@array/option_name"
+        android:defaultValue="both"
+        android:summary="Select the search option you want"
+        />
+    <Preference
+        android:key="clearHistory"
+        android:title="Clear search history"
+        android:summary="Click here to clear your search history"
+        />
+    <SwitchPreferenceCompat
+        android:key="theme"
+        android:title="Enable dark theme"
+        android:defaultValue="false"
+        />
+</PreferenceScreen>
