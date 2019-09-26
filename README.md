@@ -1,4 +1,6 @@
-**Introduction**
+# A content-based image search app
+
+## Introduction
 
 The main function of our app is content-based image search. After importing your local images to database, you could search your image either by the **object**
 (**object detection**) or by the **text** (**optical character recognition**) or both. For example, if there is an **apple** in a photo you took long time ago, when you type **apple** in the search bar, this photo
@@ -7,7 +9,7 @@ will appear. If a photo contains a text of **your name**, when you search your n
 Currently our app only supports English character recognition and object detection can recognize 121 different classes. The full list of supported classes can be 
 found [here](app/src/main/assets/labelmap.txt). The accuracy of each classes varies a lot. The most accurate classes we know so far are: Apple, Cat, Woman, Laptop, Computer keyboard, Chair, Table, Car, Traffic light. 
 
-**How to use our app**
+## How to use our app
 1. Analyze local images and store analysis result to remote database
 
 On main screen, click ***+ select***, you will enter the select image screen. You can check *zero* to *many* images as you want.
@@ -50,7 +52,7 @@ After taking a picture or select an image from you gallery, you can share it wit
 
 
 
-**Acknowledgement**
+## Acknowledgement
 
 We would like to express our sincere appreciation for all these repository owners listed below. We could not have finished such a 
 big project without their open-source repositories. We would also like to thank all other bloggers who either post blogs or upload 
@@ -60,7 +62,7 @@ videos that help us a lot in learning Android programming.
 
 
 
-**Reference souce**
+## Reference souce
 
 In the object detection part, some of the classes that interpret our Object Detection model are from this github repository
     https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android/app
