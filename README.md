@@ -1,5 +1,7 @@
 # A content-based image search app
 
+<img src="figures/main.jpg" width="120">
+
 ## Introduction
 
 The main function of our app is content-based image search. After importing your local images to database, you could search your image either by the **object**
