@@ -9,6 +9,10 @@ will appear. If a photo contains a text of **your name**, when you search your n
 Currently our app only supports English character recognition and object detection can recognize 121 different classes. The full list of supported classes can be 
 found [here](app/src/main/assets/labelmap.txt). The accuracy of each classes varies a lot. The most accurate classes we know so far are: Apple, Cat, Woman, Laptop, Computer keyboard, Chair, Table, Car, Traffic light. 
 
+## Installation
+
+The apk file is in folder **memory\release**. *memory.apk* is the content-based image search app while *ObjectDetect.apk* is the app for demonstrating our object detection model. 
+
 ## How to use our app
 1. Analyze local images and store analysis result to remote database
 
